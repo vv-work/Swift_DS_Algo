@@ -54,3 +54,19 @@ Learn and practice Swift by building a reusable algorithms and data structures l
 ---
 This repository is intentionally simple to make iteration fast. We’ll introduce additional tooling (formatters/linters/CI) as the library matures.
 
+## To-Do Overview
+- Central list with explanations and difficulty: see `Todo.md`.
+- Track implementation progress with dates: see `Log.md`.
+
+### Categories
+- Data Structures: Dynamic Array, Linked List, Deque, BST, Hash Table, Heap, Graph, Disjoint Set, Segment Tree
+- Sorting: Insertion, Merge, Quick
+- Graph Algorithms: Matrix DFS/BFS, Dijkstra, Prim, Kruskal, Topological Sort
+- Dynamic Programming: 0/1 Knapsack, Unbounded Knapsack
+
+### Difficulty Scale
+- Easy: straightforward implementation and tests
+- Medium: multiple edge cases or invariants
+- Hard: non-trivial invariants, performance trade-offs, or advanced proofs
+
+Jump in via `Todo.md` for per-item details, acceptance criteria, and links.
